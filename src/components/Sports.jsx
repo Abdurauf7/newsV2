@@ -24,7 +24,6 @@ class Sports extends Component {
   };
 
   render() {
-    console.log(this.props.sports);
     const { sports } = this.props;
 
     return (

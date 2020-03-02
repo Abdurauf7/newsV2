@@ -15,7 +15,7 @@ export function fetchArticleMiddleware({ dispatch }) {
       if (action.type === "GET_DATA") {
         axios
           .get(
-            "http://newsapi.org/v2/top-headlines?country=us&apiKey=284367f5ba734899b242057a81dac8e0"
+            "https://newsapi.org/v2/top-headlines?country=us&apiKey=284367f5ba734899b242057a81dac8e0"
           )
           .then(({ data }) => {
             dispatch(setData(data));
@@ -69,7 +69,6 @@ export function fetchBussinessInfo({ dispatch }) {
 export function fetchMoreBussinessData({ dispatch }) {
   return function(next) {
     return function(action) {
-      console.log(action);
       if (action.type === "GET_MORE_BUSSINESS_DATA") {
         axios
           .get(
