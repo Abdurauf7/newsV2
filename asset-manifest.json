@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/newsV2/static/css/main.6c2566d8.chunk.css",
-    "main.js": "/newsV2/static/js/main.62334140.chunk.js",
-    "main.js.map": "/newsV2/static/js/main.62334140.chunk.js.map",
+    "main.js": "/newsV2/static/js/main.ba7b388a.chunk.js",
+    "main.js.map": "/newsV2/static/js/main.ba7b388a.chunk.js.map",
     "runtime-main.js": "/newsV2/static/js/runtime-main.3a573d7b.js",
     "runtime-main.js.map": "/newsV2/static/js/runtime-main.3a573d7b.js.map",
     "static/css/2.d88ce3aa.chunk.css": "/newsV2/static/css/2.d88ce3aa.chunk.css",
     "static/js/2.2b47429d.chunk.js": "/newsV2/static/js/2.2b47429d.chunk.js",
     "static/js/2.2b47429d.chunk.js.map": "/newsV2/static/js/2.2b47429d.chunk.js.map",
     "index.html": "/newsV2/index.html",
-    "precache-manifest.03432a79919ad417ccc65f78350aa9b7.js": "/newsV2/precache-manifest.03432a79919ad417ccc65f78350aa9b7.js",
+    "precache-manifest.0bde15354767946ba226dba6e986f051.js": "/newsV2/precache-manifest.0bde15354767946ba226dba6e986f051.js",
     "service-worker.js": "/newsV2/service-worker.js",
     "static/css/2.d88ce3aa.chunk.css.map": "/newsV2/static/css/2.d88ce3aa.chunk.css.map",
     "static/css/main.6c2566d8.chunk.css.map": "/newsV2/static/css/main.6c2566d8.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d88ce3aa.chunk.css",
     "static/js/2.2b47429d.chunk.js",
     "static/css/main.6c2566d8.chunk.css",
-    "static/js/main.62334140.chunk.js"
+    "static/js/main.ba7b388a.chunk.js"
   ]
 }
